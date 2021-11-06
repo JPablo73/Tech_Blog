@@ -40,3 +40,5 @@ Guidelines for installing the app on your local machine:
 https://jpablo73.github.io/Tech_Blog/
 
 ### **_Link URL of deployed app to Heroku_**
+
+https://polar-tor-21427.herokuapp.com/
